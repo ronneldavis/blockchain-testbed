@@ -1,0 +1,16 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "A sample node blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ronnel Davis",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "ws": "^5.2.1"
+  }
+}
