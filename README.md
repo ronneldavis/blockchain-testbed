@@ -4,6 +4,9 @@
 
 Make sure you have node installed. Then in terminal, run 
 ``
+npm install 
+``.This installs all the dependencies required to run. After that start the server by entering 
+``
 node index.js
 ``
 This will start both the node server and the http server. The HTTP server is what you would use to interact with the blockchain and the node server is used to talk between users on the chain.  
